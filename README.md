@@ -6,8 +6,8 @@
 
 <h2> ⋆ ˚｡⋆୨୧˚ Hi, my name is Yousra Merzougui ˚୨୧⋆｡˚ ⋆</h2>
 
-       • 🎀  I’m currently working on this Github profile and some other projects 
+    • 🎀  I’m currently working on this Github profile and some other projects 
 
-       • ✨  I’m studying Computer Engineering at UCLA 🐻
+    • ✨  I’m studying Computer Engineering at UCLA 🐻
 
-       • 🍰  I love to code, learn new languages, tinker, and work on projects!
+    • 🍰  I love to code, learn new languages, tinker, and work on projects!
